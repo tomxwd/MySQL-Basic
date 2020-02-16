@@ -87,3 +87,4 @@ alter table students.stuinfo drop primary key ;
 alter table students.stuinfo drop index seat;
 # 5. 删除外键
 alter table students.stuinfo drop foreign key fk_stuinfo_major;
+#123
